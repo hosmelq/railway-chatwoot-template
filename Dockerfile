@@ -1,4 +1,4 @@
-FROM chatwoot/chatwoot:latest-ce@sha256:f322cd0f620a54d7288de013256d098e3e60c2ad06ed32a5926cb02c90f68576
+FROM chatwoot/chatwoot:latest-ce@sha256:3681f912af9cd5807d3899336a2a939d2b5dbe0506ceadf5f42334ed2e894a21
 
 RUN apk add --no-cache multirun
 
